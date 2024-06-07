@@ -1,2 +1,3 @@
 # Permainan Tebak Angka "123"
- Dicoding Project
+
+Dicoding Project about guessing number (1 - 2)
